@@ -1,5 +1,9 @@
 # Welcome to Poke Project! 👋
 
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 Whether you are a fellow data analyst, a curious researcher, or a Pokémon enthusiast, I invite you to join me in this captivating journey of data-driven exploration. May this documentation inspire and empower you to embark on your data analysis adventures, unlocking the potential of data and discovering the mysteries that lie within the Pokémon realm. Happy exploring!
 
 📝 Open the .ipynb file to explore the code and process.
@@ -7,15 +11,6 @@ Whether you are a fellow data analyst, a curious researcher, or a Pokémon enthu
 ## 📉 Dataset
 
 The dataset consist of raw data from all the pokémon from the 1st to the 6th generation exclusively.  You can find the dataset attached to this repository.
-
-
-## 🛠️ Requirements
-
-- Python 3.5+ 
-- Jupyter Notebook
-- Panda's Library
-
-
 
 ## 📚 Documentation
 
@@ -29,5 +24,5 @@ The dataset consist of raw data from all the pokémon from the 1st to the 6th ge
 
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
+[![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
 
