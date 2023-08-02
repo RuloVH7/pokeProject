@@ -23,6 +23,8 @@ The dataset consist of raw data from all the pokémon from the 1st to the 6th ge
 
 [Python User Guide](https://www.python.org/doc/)
 
+[Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
+
 [GitHub User Guide](https://docs.github.com/es)
 
 
