@@ -2,7 +2,7 @@
 
 Whether you are a fellow data analyst, a curious researcher, or a Pokémon enthusiast, I invite you to join me in this captivating journey of data-driven exploration. May this documentation inspire and empower you to embark on your data analysis adventures, unlocking the potential of data and discovering the mysteries that lie within the Pokémon realm. Happy exploring!
 
-Open the .ipynb file to explore it.
+📝 Open the .ipynb file to explore the code and process.
 
 ## 📉 Dataset
 
@@ -17,7 +17,7 @@ The dataset consist of raw data from all the pokémon from the 1st to the 6th ge
 
 
 
-## 📄 Documentation
+## 📚 Documentation
 
 [Panda's User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)
 
